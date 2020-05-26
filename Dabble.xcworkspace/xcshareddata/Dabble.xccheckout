@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5C2753A5-CE7D-458F-AD71-21FC1DF3F41B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dabble</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F71A21F4649CF8FC4BDC611FBBE0859C0680A556</key>
+		<string>https://github.com/fourvector/dabble.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Source/iOS/Dabble/Dabble.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F71A21F4649CF8FC4BDC611FBBE0859C0680A556</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fourvector/dabble.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F71A21F4649CF8FC4BDC611FBBE0859C0680A556</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F71A21F4649CF8FC4BDC611FBBE0859C0680A556</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dabble</string>
+		</dict>
+	</array>
+</dict>
+</plist>
